@@ -14,14 +14,14 @@ A simple and responsive personal task management application built with React.js
 - Data persistence using localStorage
 - Responsive design (mobile + desktop)
 
-## 🌟 Bonus Features (Optional)
+## 🌟 Bonus Features 
 <!-- Remove if you didn’t implement these -->
-- [ ] Search functionality
-- [ ] Task priority levels
-- [ ] Due dates for tasks
-- [ ] Smooth animations/transitions
-- [ ] Dark mode toggle
-- [ ] Task categories/tags
+- [-] Search functionality
+- [-] Task priority levels
+- [-] Due dates for tasks
+- [-] Smooth animations/transitions
+- [-] Dark mode toggle
+- [-] Task categories/tags
 
 ## 🛠 Setup Instructions
 1. Clone the repository:
