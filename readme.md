@@ -57,6 +57,7 @@ A simple and responsive personal task management application built with React.js
 | ![Login Screenshot](ss1.png) | ![Dashboard Screenshot](ss2.png) |
 
 ## 📂 Project Structure
+```
 task-tracker/
 ├── public/
 │ └── index.html
@@ -75,7 +76,7 @@ task-tracker/
 │ └── index.js
 ├── README.md
 └── package.json
-
+```
 
 ## 💡 Notes
 - All features work as expected and have been tested for edge cases (e.g., empty task title validation, task persistence).
