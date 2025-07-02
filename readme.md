@@ -39,7 +39,7 @@ A simple and responsive personal task management application built with React.js
     ```
 4. Open your browser at:
     ```
-    http://localhost:3000
+    http://localhost:5173
     ```
 
 ## 🧰 Technologies Used
